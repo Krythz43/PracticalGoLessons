@@ -1,0 +1,23 @@
+Chapter begins with very basic info about what parts make up the computer (RAM/CPU etc).
+
+
+For completeness (and not cause am noob), this list looks like:
+
+1) MU (memory unit)
+2) ALU 
+3) I/O unit
+4) CU (control unit)
+
+
+Memory is divided into:
+- Cental memory (RAM/ROM)
+- Auxillary memort (Hard drives, USBs)
+
+
+What is a program?
+“a combination of computer instructions and data definitions that enable computer hardware to compute”
+
+
+Two types of langugaes
+- High level (compiled/Interpreted)
+- Low level
